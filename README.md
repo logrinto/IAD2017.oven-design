@@ -5,7 +5,7 @@ Die gestaltenden Personen haben die Aufgabe, sich mit dem Thema «Küchenofen» 
 Entwickelt werden Ideen/Mockups. Es muss in Teams gearbeitet werden und die Bewertung erfolgt je Team.
 
 ## Termine & Abgabe
-Bis am 5. April 2019 um 10:45 Uhr werden alle Gruppen Ihre Slides zu einem gemeinsamen PechaKucha (20 Slides je 20 Sekunden) zusammentrag und die Präsentation halten. Die Gruppen koordinieren Sich über Reihenfolge und anzahl Slides pro Gruppe selber. Total sind 20 Slides abzugeben.
+Bis am 5. April 2019 um 10:45 Uhr werden alle Gruppen gemeinsam eine Präsentation halten. 
 Um 15 Uhr muss eine Präsentation je Gruppe gezeigt werden (10 min) und als Issue in diesem Repository hoch geladen werden (Abgabe). Der Funktionsumfang und die Interaktion ist auf der Beamer-Präsentation ersichtlich.  
 
 ## Marktforschung
@@ -23,55 +23,57 @@ Aus der fiktiven «Marktforschung» ist dem Design-Team lediglich das Management
 ## Warm-up (8:15 – ~8:45)
 Es wird in der Klasse eine kurze Einführung in die Aufgabe und das Thema geben. Es werden 4 Gruppen mit 3 Personen je Gruppe gebildet.
 
-## Recherche (8:45 – ~9:00)
-Innerhalb der Gruppe wird kurz besprochen, was Herausforderungen und Probleme bei der Aufgabe sein könnten. Eigene kurze Erfahrungen werden zusammengetragen. Mit [mentimeter](https://www.mentimeter.com/) ■■genaue URL von Michi■■ werden die Resultate zusammengetragen. 
+## Kurzrecherche (8:45 – ~9:00)
+Innerhalb der Gruppe wird kurz besprochen, was Herausforderungen und Probleme bei der Aufgabe sein könnten. Eigene kurze Erfahrungen werden zusammengetragen. Mit [mentimeter](https://www.mentimeter.com/) ■■ genaue URL von Michi ■■ werden die Resultate zusammengetragen. 
 
+## Brainstorming (9:00 – ~10:45)
+In der Gruppen werden erste Ansätze und Ideen entwickelt. 
 
-### Gruppe A (9:20 zurück im Zimmer)
-Die eine Hälfte der Gruppe begibt sich an einen beliebigen Ort im Gebäude. Die andere Hälfe wartet auf eine Wegbeschreibung um die Gruppe zu suchen. Die Wegbeschreibung wird via Mobilephone übermittelt. Danach werden die Rollen gewechselt und eine neue Wegbeschreibung und eine neue Methode wird gewählt. Rückfragen sind nicht erlaubt. Wenn die Gruppe nicht innert 4 Minuten gefunden wird, gilt der Versuch als gescheitert. Untersuchen Sie diverse Methoden der Wegbeschreibung. Form (Text, Ton, Bild, ...) wie auch Konzept (von sich ausgehend, relativ zu ..., absolut in ...).
-
-Bewerten Sie in der Gruppe, was für Strategien sich geeignet haben und halten Sie die Erkentnis fest.
-
-### Gruppe B (9:20 zurück im Zimmer)
-Jedes Mitglied der Gruppe wählt zwei beliebige Punkte (A und B) im Umkreis von 200 Meter um das Gebäude auf einer [Karte](https://www.openstreetmap.org/search?query=schule%20f%C3%BCr%20gestaltung%20z%C3%BCrich#map=19/47.38500/8.53297) aus. Danach fertigt jedes Mitglied für die Strecke zwischen den beiden Punkten eine Wegfindung an, die den Weg zwischen den beiden Punkten beschreibt und sowohl als Hin- wie auch als Rückweg dienen könnte (A zu B & B zu A in einer Form). Danach wird die Wegbeschreibung einem anderen Mitglied der Gruppe übergeben und lediglich ein Startpunkt (A oder B per Losverfahren) wird auf der Karte erklärt. Der zweite Punkt muss dann mittels Wegbeschreibung gefunden werden. Zugelassene Form der Wegbeschreibung: Stift und Papier. Anfertigung der Wegbeschreibung mittels technischen Hilfsmittel ist erwünscht/möglich.
-
-Bewerten Sie in der Gruppe, was für Strategien sich geeignet haben und halten Sie die Erkentnis fest.
-
-### Gruppe C (9:20 zurück im Zimmer)
-Bewegen Sie sich im Umkreis von 400 Meter vom Gebäude an eine beliebigen Ort. Seien sie besort, dass Sie keiner Ihrer Gruppen-Mitglieder bereits visuell sehen. Senden Sie nun an ein zuvor abgemachtes Gruppenmitglied eine Sprachnachricht in dem Sie genau erklären, wo sie stehen. Denken Sie daran, sie wissen nicht, wo der ander Partner ist. Die Sprachnachricht darf vom andernen Mitglied der Gruppe nur einmal gehört werden. Sollten Sie den Partner nicht finden, fordern Sie eine neue Beschreibung an, ohne jedoch ihren aktuellen Standort bekannt zu geben. Drehen Sie danach die Rollen um.
-
-Bewerten Sie in der Gruppe, was für Strategien sich geeignet haben und halten Sie die Erkentnis fest.
-
-
-
-## Präsentation (11:30 Uhr)
+## Zwischenpräsentation (10:45 Uhr)
 Die Zwischenpräsentation dient dem Lernprozess und soll einen Austausch innerhalb der Klasse fördern. Die Qualität des Entwurfs wird noch nicht beurteilt.
+Bis 10:45 Uhr werden alle Gruppen Ihre Slides zu einem gemeinsamen PechaKucha (20 Slides je 20 Sekunden) zusammentrag und die Präsentation halten. Die Gruppen koordinieren Sich über Reihenfolge und Anzahl Slides pro Gruppe selber. Total sind 20 Slides abzugeben.  
+Die Zwischenpräsentation ist im Setting wie eine kurze Kundenpäsentation. Die Dozierenden werden im Anschluss ein Feedback über alle Abgaben geben.
 
+## Briefing Technik (11:00 Uhr)
+■■ müssen wir noch erstellen ■■
+Die Technik-Abteilung gibt einige technische Beschränkungen für das Interface bekannt.
+
+## Erarbeitung (11:00 – 11:45)
+Die Teams erarbeiten Ihren Vorschlag.
+
+## Mittag (11:45 – 12:45)
+
+## Briefing Marketing (12:45 Uhr)
+Es gib News aus der Marketing-Abteilung...
+
+## Erarbeitung (12:45 – 15:00)
+Die Teams erarbeiten Ihren Vorschlag.
 
 ## Abgabe & Präsentation (15 Uhr)
-* Wegfindung ist visualisiert werden
-* Zu visualisieren ist der Ablauf vom Buchungs und Rückgabeprozess
+* Funktionsumfang ist definiert
+* Interface ist visualisiert 
+* Zu visualisieren ist ein typischer Nutzungsablauf 
 * Die Präsentation muss abgegeben werden. Technologie der Abgabe ist frei.
 
 
 ## Bewertung
 ### Technik (10%)
-* Die Abgegebenen Visualisierungen sind für eine technische Realisation aussagekräftig
-* Die Realisation ist mit den vorgegebenen technischen Spezifikationen machbar
+* Die Abgegebenen Visualisierungen sind für eine Realisation aussagekräftig
+* Die Realisation ist machbar
 
-### Inhalt (10%)
-* Bestehende Strukturen/Konzepte verbessert
-* Alle Inhaltselemente wurden genügend Visualisiert
-* Inhalte wurden bewusst reduziert
+### Inhalt (20%)
+* Bekannte Konzepte verbessert
+* Auf die «Marketing»-Erhebungen wurden eingegangen
+* Typische Probleme der Bedienung wurde erkannt.
 
 ### Interaktion/Führung (50%)
 * Interaktion ist schlüssig und schnell zugänglich
-* Interaktion wurde für Smartwatch optimiert
-* Die aktuelle Position innerhalb der Informationsbeschaffung ist ersichtlich
-* Die Leseführung/Menüführung ist überlegt und offensichtlich
+* Interaktion wurde für den gebrauch in einer Küche optimiert
+* Die aktuelle Position innerhalb der Führung ist ersichtlich und jederzeit Abbrechbar
+* Die Benutzerführung/Menüführung ist überlegt und offensichtlich
 * Leicht zugängliche Interface-Konzepte
 
-### Grafisches Konzept (30%)
+### Grafisches Konzept (20%)
 * Das Grafische Konzept ist schlüssig und durchgängig
 * Grafische Sprache entspricht dem Inhalt
 * Typografie überlegt eingesetzt
@@ -79,8 +81,3 @@ Die Zwischenpräsentation dient dem Lernprozess und soll einen Austausch innerha
 * Zweckmässigkeit gegeben
 
 
-
-### Vergangene Case Studies
-* [HS2017 · Aufgabe Case Study · Interface](https://signalwerk.github.io/IAD.LAB.DOC/exercise-case-study/)
-* [HS2017 · Slides Case Study · Interface](https://signalwerk.github.io/IAD.LAB.SLD/data/2017/KW45-case-study/)
-* [FS2018 · Case Study · Teaminteraction](https://github.com/logrinto/IAD2017.nextpad)
