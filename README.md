@@ -32,7 +32,7 @@ In der Gruppen werden erste Ansätze und Ideen entwickelt.
 ## Zwischenpräsentation (10:45 Uhr)
 Die Zwischenpräsentation dient dem Lernprozess und soll einen Austausch innerhalb der Klasse fördern. Die Qualität des Entwurfs wird noch nicht beurteilt.
 Bis 10:45 Uhr werden alle Gruppen Ihre Slides zu einem gemeinsamen PechaKucha (20 Slides je 20 Sekunden) zusammentrag und die Präsentation halten. Die Gruppen koordinieren Sich über Reihenfolge und Anzahl Slides pro Gruppe selber. Total sind 20 Slides abzugeben.  
-Die Zwischenpräsentation ist im Setting wie eine kurze Kundenpäsentation. Die Dozierenden werden im Anschluss ein Feedback über alle Abgaben geben.
+Die Zwischenpräsentation ist im Setting wie eine kurze Kundenpäsentation. Die Dozierenden werden im Anschluss ein Feedback über alle Abgaben hinweg geben.
 
 ## Briefing Technik (11:00 Uhr)
 ■■ müssen wir noch erstellen ■■
@@ -64,7 +64,7 @@ Die Teams erarbeiten Ihren Vorschlag.
 ### Inhalt (20%)
 * Bekannte Konzepte verbessert
 * Auf die «Marketing»-Erhebungen wurden eingegangen
-* Typische Probleme der Bedienung wurde erkannt.
+* Typische Probleme der Bedienung wurde erkannt
 
 ### Interaktion/Führung (50%)
 * Interaktion ist schlüssig und schnell zugänglich
