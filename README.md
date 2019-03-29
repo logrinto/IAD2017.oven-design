@@ -1,11 +1,11 @@
 # Case Study · Küchenofen
 
 ## Ausgangslage
-Die gestaltenden Personen haben die Aufgabe, sich mit dem Thema «Küchenofen» zu beschäftigen und basierend auf einer (fiktiven) minimalen Marktforschung einen Funktionsumfang für «den idealen Backofen» im Schweizer Markt zu finden. Dabei muss einerseits ein Funktionsumfang abgesteckt werden, andererseits muss jedoch vor allem dieser Funktionsumfang ideal in einem Interface zugänglich gemacht werden.  
+Die gestaltenden Personen haben die Aufgabe, sich mit dem Thema «Küchenofen» zu beschäftigen und basierend auf einer (fiktiven) minimalen Marktforschung einen Funktionsumfang für «den idealen Backofen» im Schweizer Markt zu finden. Dabei muss einerseits ein Funktionsumfang abgesteckt werden, andererseits muss jedoch vor allem dieser Funktionsumfang ideal in einem Interface zugänglich gemacht werden.
 Entwickelt werden Ideen/Mockups. Es muss in Teams gearbeitet werden und die Bewertung erfolgt je Team.
 
 ## Termine & Abgabe
-Bis am 5. April 2019 um 10:45 Uhr werden alle Gruppen gemeinsam eine Präsentation halten. 
+Bis am 5. April 2019 um 10:45 Uhr werden alle Gruppen gemeinsam eine Präsentation halten.
 Um 15 Uhr muss eine Präsentation je Gruppe gezeigt werden (10 min) und als Issue in diesem Repository hoch geladen werden (Abgabe). Der Funktionsumfang und die Interaktion ist auf der Beamer-Präsentation ersichtlich.  
 
 ## Marktforschung
@@ -20,19 +20,46 @@ Aus der fiktiven «Marktforschung» ist dem Design-Team lediglich das Management
 * Bei Backwaren werden die Backzeiten oft Minutengenau gemäss Rezept eingehalten. Bei Speisen verlässt man sich eher auf eine visuelle Einschätzung
 * Ein Backofen hat eine durchschnittliche Lebenserwartung von 18 Jahren. Während dieser Zeit gibt es üblicherweise keine Service-Arbieten.
 
+## Praxisbeispiele
+Anbei ein paar Links von Interfaces der Firma Miele:
+* https://www.youtube.com/watch?v=CSypD9FVC_E
+* https://www.youtube.com/watch?v=rosz6dyEm0c
+* https://www.youtube.com/watch?v=19uyHhHxHVc
+* https://www.youtube.com/watch?v=fJpGT6dHVKk
+* https://www.youtube.com/watch?v=ziiJNZik6CY
+* https://www.youtube.com/watch?v=xbMlfZKJrTQ
+* https://www.youtube.com/watch?v=bQroUh3SWEA
+* https://www.youtube.com/watch?v=9MSSjbk7C7A
+
+Anmerkung: Backöfen mit vergleichbaren Interfaces werden in Kombination mit 100-seitigen Bedienungsanleitungen vertrieben…
+
 ## Warm-up (8:15 – ~8:45)
 Es wird in der Klasse eine kurze Einführung in die Aufgabe und das Thema geben. Es werden 4 Gruppen mit 3 Personen je Gruppe gebildet.
 
 ## Kurzrecherche (8:45 – ~9:00)
-Innerhalb der Gruppe wird kurz besprochen, was Herausforderungen und Probleme bei der Aufgabe sein könnten. Eigene kurze Erfahrungen werden zusammengetragen. Mit [mentimeter](https://www.mentimeter.com/) ■■ genaue URL von Michi ■■ werden die Resultate zusammengetragen. 
+Innerhalb der Gruppe wird kurz besprochen, was Herausforderungen und Probleme bei der Aufgabe sein könnten. Auch sollen eigene Erfahrungen ausgetauscht werden. Die Erkenntnisse werden innerhalb der Klasse kurz diskuttiert.
+
+## Briefing Stakeholder (9:00)
+Die Technik-Abteilung gibt einige technische Beschränkungen für das Interface bekannt:
+* Der Backofen wird für Privathaushalte produziert.
+* Aufgrund erhobener Endnutzer-Erwartungshaltungen soll das Interface mit 2 Drehknöpfen versehen sein.
+* Das Interface wird mit Touch-Display ausgestattet werden.
+* Es soll gross gedacht werden. Vorbild ist die dazumalige revolutionäre Haltung von Apple
+* Es soll angestrebt werden, dass der Backofen nahezu ohne Bedienungsanleitung auskommt.
+* Der Backofen soll lieber Freund als Feind sein.
+* Es sei noch offen, was für Funktionen der Backofen abdecken solle. Die Stakeholder lassen sich gerne überraschen.
+* Man solle Startup-mässig gedacht werden. In naher Zukunft möchte man als Inbegriff für benutzerfreundliche Backöfen gelten.
+
+Bei der Erarbeitung der Konzepte geht es nicht darum, über das nötige Fachwissen der verschiedenen Backarten etc. Bescheid zu wissen. Vielmehr wird erwartet, wie das Interface grundsätzlich bedient werden soll, an was für Richtwerten sich der Endnutzer orientiert und entsprechend zu seinem gewünschten Resultat findet.
 
 ## Brainstorming (9:00 – ~10:45)
 In der Gruppen werden erste Ansätze und Ideen entwickelt. 
 
 ## Zwischenpräsentation (10:45 Uhr)
-Die Zwischenpräsentation dient dem Lernprozess und soll einen Austausch innerhalb der Klasse fördern. Die Qualität des Entwurfs wird noch nicht beurteilt.
-Bis 10:45 Uhr werden alle Gruppen Ihre Slides zu einem gemeinsamen PechaKucha (20 Slides je 20 Sekunden) zusammentrag und die Präsentation halten. Die Gruppen koordinieren Sich über Reihenfolge und Anzahl Slides pro Gruppe selber. Total sind 20 Slides abzugeben.  
-Die Zwischenpräsentation ist im Setting wie eine kurze Kundenpäsentation. Die Dozierenden werden im Anschluss ein Feedback über alle Abgaben hinweg geben.
+Die Zwischenpräsentation dient dem Lernprozess und soll einen Austausch innerhalb der Klasse fördern. Die Qualität des Entwurfs wird noch nicht beurteilt. 
+Bis 10:45 Uhr werden alle Gruppen Ihre Slides zu einem gemeinsamen PechaKucha (20 Slides je 20 Sekunden) zusammentragen und die Präsentation halten. Die Gruppen koordinieren sich über Reihenfolge und Anzahl Slides pro Gruppe selber. Total sind 20 Slides abzugeben.
+
+Die Zwischenpräsentation ist im Setting wie eine kurze Kundenpräsentation. Die Dozierenden werden im Anschluss ein Feedback über alle Abgaben hinweg geben.
 
 ## Briefing Technik (11:00 Uhr)
 ■■ müssen wir noch erstellen ■■
@@ -44,7 +71,7 @@ Die Teams erarbeiten Ihren Vorschlag.
 ## Mittag (11:45 – 12:45)
 
 ## Briefing Marketing (12:45 Uhr)
-Es gib News aus der Marketing-Abteilung...
+Es gibt News aus der Marketing-Abteilung: Man will mit 2 Produkten gleichzeitig auf den Markt: mit einer Basic- und einer Pro-Variante. Das Interface der beiden Backöfen wird physisch gleich sein, doch wird die Basic-Variante mit einem reduzierten Funktionsumfang zu einem günstigeren Preis vertrieben werden.
 
 ## Erarbeitung (12:45 – 15:00)
 Die Teams erarbeiten Ihren Vorschlag.
