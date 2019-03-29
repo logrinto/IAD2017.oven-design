@@ -61,16 +61,12 @@ Bis 10:45 Uhr werden alle Gruppen Ihre Slides zu einem gemeinsamen PechaKucha (2
 
 Die Zwischenpräsentation ist im Setting wie eine kurze Kundenpräsentation. Die Dozierenden werden im Anschluss ein Feedback über alle Abgaben hinweg geben.
 
-## Briefing Technik (11:00 Uhr)
-■■ müssen wir noch erstellen ■■
-Die Technik-Abteilung gibt einige technische Beschränkungen für das Interface bekannt.
-
 ## Erarbeitung (11:00 – 11:45)
 Die Teams erarbeiten Ihren Vorschlag.
 
 ## Mittag (11:45 – 12:45)
 
-## Briefing Marketing (12:45 Uhr)
+## Change Request Marketing (12:45 Uhr)
 Es gibt News aus der Marketing-Abteilung: Man will mit 2 Produkten gleichzeitig auf den Markt: mit einer Basic- und einer Pro-Variante. Das Interface der beiden Backöfen wird physisch gleich sein, doch wird die Basic-Variante mit einem reduzierten Funktionsumfang zu einem günstigeren Preis vertrieben werden.
 
 ## Erarbeitung (12:45 – 15:00)
