@@ -67,7 +67,7 @@ Die Teams erarbeiten Ihren Vorschlag.
 ## Mittag (11:45 – 12:45)
 
 ## Change Request Marketing (12:45 Uhr)
-Es gibt News aus der Marketing-Abteilung: Man will mit 2 Produkten gleichzeitig auf den Markt: mit einer Basic- und einer Pro-Variante. Das Interface der beiden Backöfen wird physisch gleich sein, doch wird die Basic-Variante mit einem reduzierten Funktionsumfang zu einem günstigeren Preis vertrieben werden. Die Funktionsunterschiede müssen in der Endabgabe ersichtlich sein.
+...
 
 ## Erarbeitung (12:45 – 15:00)
 Die Teams erarbeiten Ihren Vorschlag.
