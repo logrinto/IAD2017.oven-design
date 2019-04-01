@@ -40,15 +40,15 @@ Es wird in der Klasse eine kurze Einführung in die Aufgabe und das Thema geben.
 Innerhalb der Gruppe wird kurz besprochen, was Herausforderungen und Probleme bei der Aufgabe sein könnten. Auch sollen eigene Erfahrungen ausgetauscht werden. Die Erkenntnisse werden innerhalb der Klasse kurz diskuttiert.
 
 ## Briefing Stakeholder (9:00)
-Die Technik-Abteilung gibt einige technische Beschränkungen für das Interface bekannt:
+Die Stakeholder und die Technik-Abteilung haben einige Entscheide für das Gerät getroffen:
 * Der Backofen wird für Privathaushalte produziert.
-* Aufgrund erhobener Endnutzer-Erwartungshaltungen soll das Interface mit 2 Drehknöpfen versehen sein.
+* Das Interface soll mit maximal 2 Drehknöpfen (mit push/klick) und keinen weiteren physischen Interfaces versehen sein.
 * Das Interface wird mit Touch-Display ausgestattet werden.
-* Es soll gross gedacht werden. Vorbild ist die dazumalige revolutionäre Haltung von Apple
-* Es soll angestrebt werden, dass der Backofen nahezu ohne Bedienungsanleitung auskommt.
+* Es soll eine neue Art des Backofens gedacht werden. Eine revolutionäre Haltung ist erwünscht.
+* Es soll angestrebt werden, dass der Backofen ohne Bedienungsanleitung auskommt.
 * Der Backofen soll lieber Freund als Feind sein.
-* Es sei noch offen, was für Funktionen der Backofen abdecken solle. Die Stakeholder lassen sich gerne überraschen.
-* Man solle Startup-mässig gedacht werden. In naher Zukunft möchte man als Inbegriff für benutzerfreundliche Backöfen gelten.
+* Es ist offen, was für Funktionen der Backofen abdecken soll. Die Stakeholder lassen sich gerne überraschen.
+* Es soll inovativ gedacht werden. In naher Zukunft möchte man als Inbegriff für benutzerfreundliche Backöfen gelten.
 
 Bei der Erarbeitung der Konzepte geht es nicht darum, über das nötige Fachwissen der verschiedenen Backarten etc. Bescheid zu wissen. Vielmehr wird erwartet, wie das Interface grundsätzlich bedient werden soll, an was für Richtwerten sich der Endnutzer orientiert und entsprechend zu seinem gewünschten Resultat findet.
 
@@ -67,7 +67,7 @@ Die Teams erarbeiten Ihren Vorschlag.
 ## Mittag (11:45 – 12:45)
 
 ## Change Request Marketing (12:45 Uhr)
-Es gibt News aus der Marketing-Abteilung: Man will mit 2 Produkten gleichzeitig auf den Markt: mit einer Basic- und einer Pro-Variante. Das Interface der beiden Backöfen wird physisch gleich sein, doch wird die Basic-Variante mit einem reduzierten Funktionsumfang zu einem günstigeren Preis vertrieben werden.
+Es gibt News aus der Marketing-Abteilung: Man will mit 2 Produkten gleichzeitig auf den Markt: mit einer Basic- und einer Pro-Variante. Das Interface der beiden Backöfen wird physisch gleich sein, doch wird die Basic-Variante mit einem reduzierten Funktionsumfang zu einem günstigeren Preis vertrieben werden. Die Funktionsunterschiede müssen in der Endabgabe ersichtlich sein.
 
 ## Erarbeitung (12:45 – 15:00)
 Die Teams erarbeiten Ihren Vorschlag.
