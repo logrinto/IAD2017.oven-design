@@ -33,7 +33,7 @@ Anbei ein paar Links von Interfaces der Firma Miele:
 
 Anmerkung: Backöfen mit vergleichbaren Interfaces werden in Kombination mit 100-seitigen Bedienungsanleitungen vertrieben…
 
-## Warm-up (8:15 – ~8:30)
+## Aufgabe (8:15 – ~8:30)
 Es wird in der Klasse eine kurze Einführung in die Aufgabe und das Thema geben. Es werden 4 Gruppen mit 3 Personen je Gruppe gebildet.
 
 ## Kurzrecherche (8:30 – ~9:00)
