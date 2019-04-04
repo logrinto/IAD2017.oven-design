@@ -22,21 +22,21 @@ Aus der fiktiven «Marktforschung» ist dem Design-Team lediglich das Management
 
 ## Praxisbeispiele
 Anbei ein paar Links von Interfaces der Firma Miele:
-* https://www.youtube.com/watch?v=CSypD9FVC_E
-* https://www.youtube.com/watch?v=rosz6dyEm0c
-* https://www.youtube.com/watch?v=19uyHhHxHVc
-* https://www.youtube.com/watch?v=fJpGT6dHVKk
-* https://www.youtube.com/watch?v=ziiJNZik6CY
-* https://www.youtube.com/watch?v=xbMlfZKJrTQ
-* https://www.youtube.com/watch?v=bQroUh3SWEA
-* https://www.youtube.com/watch?v=9MSSjbk7C7A
+* [YouTube: Backofen mit Mikrowelle: Die perfekte Küchen-Kombination | Miele](https://www.youtube.com/watch?v=CSypD9FVC_E)
+* [YouTube – Dampfgarer mit Backofen XL: Das Multitalent in der Küche | Miele](https://www.youtube.com/watch?v=rosz6dyEm0c)
+* [YouTube – Einzigartige Genussmomente mit Miele Backöfen](https://www.youtube.com/watch?v=19uyHhHxHVc)
+* [YouTube – Miele Backofen Crisp Funktion | Miele](https://www.youtube.com/watch?v=fJpGT6dHVKk)
+* [YouTube – Miele M Touch Main Menu - Overview](https://www.youtube.com/watch?v=ziiJNZik6CY)
+* [YouTube – Miele Speed Oven Auto Roast Demo - Cooking A Turkey Breast](https://www.youtube.com/watch?v=xbMlfZKJrTQ)
+* [YouTube – Miele 24In Combo Steam Oven DGC6800XLGRGR](https://www.youtube.com/watch?v=bQroUh3SWEA)
+* [YouTube – Miele DGC6800XL Combi Steam Oven Overview](https://www.youtube.com/watch?v=9MSSjbk7C7A)
 
 Anmerkung: Backöfen mit vergleichbaren Interfaces werden in Kombination mit 100-seitigen Bedienungsanleitungen vertrieben…
 
-## Warm-up (8:15 – ~8:45)
+## Warm-up (8:15 – ~8:30)
 Es wird in der Klasse eine kurze Einführung in die Aufgabe und das Thema geben. Es werden 4 Gruppen mit 3 Personen je Gruppe gebildet.
 
-## Kurzrecherche (8:45 – ~9:00)
+## Kurzrecherche (8:30 – ~9:00)
 Innerhalb der Gruppe wird kurz besprochen, was Herausforderungen und Probleme bei der Aufgabe sein könnten. Auch sollen eigene Erfahrungen ausgetauscht werden. Die Erkenntnisse werden innerhalb der Klasse kurz diskuttiert.
 
 ## Briefing Stakeholder (9:00)
