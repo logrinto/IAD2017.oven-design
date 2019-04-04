@@ -6,7 +6,7 @@ Entwickelt werden Ideen/Mockups. Es muss in Teams gearbeitet werden und die Bewe
 
 ## Termine & Abgabe
 Bis am 5. April 2019 um 10:45 Uhr werden alle Gruppen gemeinsam eine Präsentation halten.
-Um 15 Uhr muss eine Präsentation je Gruppe gezeigt werden (10 min) und als Issue in diesem Repository hoch geladen werden (Abgabe). Der Funktionsumfang und die Interaktion ist auf der Beamer-Präsentation ersichtlich.  
+Um 15 Uhr muss eine Präsentation je Gruppe gezeigt werden (10 min) und als Issue in diesem Repository hoch geladen werden (Abgabe). Der Funktionsumfang und die Interaktion ist auf der Präsentation ersichtlich.  
 
 ## Marktforschung
 Aus der fiktiven «Marktforschung» ist dem Design-Team lediglich das Management-Summary bekannt;
@@ -76,7 +76,9 @@ Die Teams erarbeiten Ihren Vorschlag.
 * Funktionsumfang ist definiert
 * Interface ist visualisiert 
 * Zu visualisieren ist ein typischer Nutzungsablauf 
-* Die Präsentation muss abgegeben werden. Technologie der Abgabe ist frei.
+* Präsentation etwa 10 min
+* Die Präsentation/Aufgabe muss abgegeben werden ([GitHub Issue](https://github.com/logrinto/IAD2017.oven-design/issues)). 
+* Technologie der Abgabe ist frei.
 
 
 ## Bewertung
