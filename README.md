@@ -77,7 +77,7 @@ Die Teams erarbeiten Ihren Vorschlag.
 * Interface ist visualisiert 
 * Zu visualisieren ist ein typischer Nutzungsablauf 
 * Präsentation etwa 10 min
-* Die Präsentation/Aufgabe muss abgegeben werden ([GitHub Issue](https://github.com/logrinto/IAD2017.oven-design/issues)). 
+* Die Präsentation/Lösung muss abgegeben werden ([GitHub Issue](https://github.com/logrinto/IAD2017.oven-design/issues)). 
 * Technologie der Abgabe ist frei.
 
 
