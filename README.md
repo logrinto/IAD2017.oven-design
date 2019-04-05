@@ -18,7 +18,7 @@ Aus der fiktiven «Marktforschung» ist dem Design-Team lediglich das Management
 * Die Zubereitung einer warmen Mahlzeiten in Privathaushalten dauert im Durchschnitt [38 Minuten](https://www.bag.admin.ch/dam/bag/de/dokumente/npp/ernaehrung-bewegung/moseb/bereich-2/ind-2-6.pdf.download.pdf/ind-2-6-de.pdf). 
 * Etwa [53 %](https://de.statista.com/statistik/daten/studie/387376/umfrage/umfrage-in-der-schweiz-zum-besitz-von-haushaltsgeraeten/) der Schweizer Privathaushalte haben einen Mikrowellen
 * Bei Backwaren werden die Backzeiten oft Minutengenau gemäss Rezept eingehalten. Bei Speisen verlässt man sich eher auf eine visuelle Einschätzung
-* Ein Backofen hat eine durchschnittliche Lebenserwartung von 18 Jahren. Während dieser Zeit gibt es üblicherweise keine Service-Arbieten.
+* Ein Backofen hat eine durchschnittliche Lebenserwartung von 18 Jahren. Während dieser Zeit gibt es üblicherweise keine Service-Arbeiten.
 
 ## Praxisbeispiele
 Anbei ein paar Links von Interfaces der Firma Miele:
